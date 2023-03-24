@@ -254,7 +254,14 @@ footer > span {
 
   #features .icon {
     display: none;
-}
+  }
+
+  #features .desc {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    height: 150px;
+  }
 
   #pricing {
     flex-direction: column;
@@ -265,5 +272,5 @@ footer > span {
     width: 100%;
     margin: 0 auto;
     margin-bottom: 10px;
-}
+  }
 }
